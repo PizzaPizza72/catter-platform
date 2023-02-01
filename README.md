@@ -5,6 +5,8 @@ This is Catter, a social media platform, that's safe! This is much like Meower.
 
 **WARNING:** Catter is not designed to be a competitor to Meower. It is a completely separate project.
 
+**ANOTHER WARNING:** Catter is unstable and crashes very often! If you are annoyed with stuff crashing then Catter isn't for you!
+
 # So how do I use Catter?
 Use [this link](https://beta.adacraft.org/player/?project=2759cbb2) or download the Catter file I provided you with!
 
